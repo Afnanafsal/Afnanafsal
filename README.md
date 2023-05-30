@@ -11,12 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools 🛠 
 
-![Flutter](https://img.shields.io/badge/-Flutter-%23CC6699?style=flat-square&logo=flutter&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-
-![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=ffffff)
-![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=c&logoColor=%23ffffff)
-![Dart](https://img.shields.io/badge/-Dart-61DAFB?style=flat-square&logo=dart&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-%23F05032?style=flat-square&logo=react&logoColor=%23ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
