@@ -5,7 +5,7 @@
 
 <div>
 <a href="mailto: afnnafsal@gmail.com">
-<img src="https://img.shields.io/badge/-afnnafsal-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/Afnnafsal/">   <img src="https://img.shields.io/badge/@afnanafsal_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/anbarasu-n/"><img src="https://img.shields.io/badge/Anbarasu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<img src="https://img.shields.io/badge/-afnnafsal-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/Afnnafsal/">   <img src="https://img.shields.io/badge/@afnanafsal_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/afnanafsal/"><img src="https://img.shields.io/badge/Afnanafsal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 <img src="https://komarev.com/ghpvc/?username=afnanafsal&color=brightgreen&style=for-the-badge" > </img>
 
 </div>
@@ -13,9 +13,9 @@
 ### Current Status : 📡
 
 - 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
-- 🌱 I’m currently learning <strong>UI Libraries</strong> and <strong>TypeScript</strong>
+- 🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong>
 - 🤔 My career interests are with <strong>UI Design & Web Development & BackEnd Development</strong>
-- 🔍 I’m looking for career opportunities in the <strong>Startups</strong>
+- 🔍 I’m looking for career opportunities
 
 ### Tools I work upon : 🛠
 <img src="https://img.shields.io/badge/TypeScript%20-%23E00033.svg?&style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React%20-%2314354C.svg?&style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/NestJS%20-%2300599C.svg?&style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/firebase%20-%23777BB4.svg?&style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
