@@ -5,7 +5,7 @@
 
 <div>
 <a href="mailto: afnnafsal@gmail.com">
-<img src="https://img.shields.io/badge/-afnnafsal-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/Afnnafsal/">   <img src="https://img.shields.io/badge/@afnanafsal_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/afnanafsal/"><img src="https://img.shields.io/badge/Afnanafsal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<img src="https://img.shields.io/badge/-afnanafsal-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/Afnnafsal/">   <img src="https://img.shields.io/badge/@afnanafsal_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/afnanafsal/"><img src="https://img.shields.io/badge/Afnanafsal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 <img src="https://komarev.com/ghpvc/?username=afnanafsal&color=brightgreen&style=for-the-badge" > </img>
 
 </div>
