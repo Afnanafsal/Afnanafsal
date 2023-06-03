@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Afnan AFSAl</h1>
-<h3 align="center">A passionate developer from India</br>
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Student+Developer+and+Engineer;" height="40" align="center"/></h3>
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=A+Passionate+Student+Developer+and+Engineer;" height="40" align="center"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afnanafsal&label=Profile%20views&color=0e75b6&style=flat" alt="afnanafsal" /> </p>
 
