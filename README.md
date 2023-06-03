@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/afnanafsal" target="blank"><img src="https://img.shields.io/twitter/follow/afnanafsal?logo=twitter&style=for-the-badge" alt="afnanafsal" /></a> </p>
 
 - 🔭 I’m currently working on [Watermetro kochi](--secret--)
-- 
+ 
 - 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
-- 
+
 - 🤔 My career interests are with <strong>UI Design & Web Development & BackEnd Development</strong>
-- 
+ 
 - 🔍 I’m looking for career opportunities
 
 - 🌱 I’m currently learning **React,Node,Python And improving my learnings.**
@@ -22,7 +22,7 @@
 - 📫 How to reach me **afnnafsal@gmail.com**
 
 - ⚡ Fun fact **Love to Code**
-- 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
