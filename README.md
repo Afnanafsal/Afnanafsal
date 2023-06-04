@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **afnnafsal@gmail.com**
 
-- ⚡ Fun fact **Love to Code**
+- ⚡ Fun fact:- **Love to Code**
  
 
 <h3 align="left">Connect with me:</h3>
