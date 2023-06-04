@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/afnanafsal" target="blank"><img src="https://img.shields.io/twitter/follow/afnanafsal?logo=twitter&style=for-the-badge" alt="afnanafsal" /></a> </p>
 
-- 🔭 I’m currently working on [Watermetro kochi](--secret--)
+- 🔭 I’m currently working on [Watermetro kochi](https://watermetro.co.in)
  
 - 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
 
