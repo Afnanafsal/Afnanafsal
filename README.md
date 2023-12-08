@@ -14,9 +14,9 @@
  
 - 🔍 I’m looking for career opportunities
 
-- 🌱 I’m currently learning **React,Node,Python And improving my learnings.**
+- 🌱 I’m currently learning **React,Node,Flutter,Dart,Python And improving my learnings.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Afnanafsal](https://github.com/Afnanafsal)
+- 👨‍💻 All of my projects are available at [https://github.com/Afnanafsal](https://github.com/Afnanafsal) There is more in the hidden side of this repository .when the time comes you can view them😎
 
 - 🤝 Improvising **My backend development knowledge.**
 
