@@ -30,7 +30,7 @@
 ## <div align="center">💫 About Me</div>
 
 <div align="center">
-  <img align="right" height="270px" alt="3D Developer Animation" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/programming.svg" />
+  <img align="right" height="270px" alt="Developer Animation" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 </div>
 
 - 🎓 Currently pursuing **BTech in Computer Science & Engineering**
