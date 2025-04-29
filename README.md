@@ -20,9 +20,7 @@
 
 
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/GIFs/web-development.gif" width="400" alt="3D Web Development" />
-</div>
+
 
 
 
